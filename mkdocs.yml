@@ -1,0 +1,7 @@
+site_name: My Docs
+
+nav:
+    - Home: index.md
+    - Musa Coccinea: coccinea.md
+    
+theme: readthedocs
